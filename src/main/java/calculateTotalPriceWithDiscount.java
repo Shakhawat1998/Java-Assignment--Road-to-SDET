@@ -15,7 +15,10 @@ public class calculateTotalPriceWithDiscount {
         int mousePrice = numbers.get(2);
         int quantity = numbers.get(3);
         int discountPercentage = numbers.get(4);
-
+        System.out.println("laptop price "+laptopPrice);
+        System.out.println("mouse price "+mousePrice);
+        System.out.println("quantity "+quantity);
+        System.out.println("discount "+discountPercentage);
         int totalPrice = laptopPrice + (mousePrice * quantity);
         double discountAmount = (discountPercentage / 100.0) * totalPrice;
         double finalPrice = totalPrice - discountAmount;

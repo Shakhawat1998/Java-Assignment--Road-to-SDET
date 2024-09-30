@@ -29,7 +29,6 @@ public class findCGPAUsingBinarySearch {
             else{
                 high=mid-1;
             }
-
         }
         if(flag){
             System.out.println("target CGPA is found at index "+index);
