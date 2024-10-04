@@ -1,4 +1,4 @@
-All the programs and outputs are added in this [doc](https://docs.google.com/document/d/1G1OMd-dwFMmoJy12Lk13Vx-x7JsnV0IbR2vL6EFMCrw/edit?usp=sharing)
+All the programs and outputs are added in this [google doc](https://docs.google.com/document/d/1G1OMd-dwFMmoJy12Lk13Vx-x7JsnV0IbR2vL6EFMCrw/edit?usp=sharing)
 
 # Finding the 2nd Highest CGPA
 
